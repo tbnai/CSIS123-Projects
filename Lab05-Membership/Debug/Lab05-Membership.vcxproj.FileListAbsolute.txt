@@ -1,0 +1,2 @@
+C:\CSIS123\Lab05-Membership\Debug\Lab05-Membership.exe
+C:\CSIS123\Lab05-Membership\Debug\Lab05-Membership.pdb

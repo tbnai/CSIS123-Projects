@@ -1,0 +1,4 @@
+C:\VCProjects\Lab03-Declarations\Debug\Lab03-Declarations.exe
+C:\VCProjects\Lab03-Declarations\Debug\Lab03-Declarations.pdb
+C:\CSIS123\Lab03-Declarations\Debug\Lab03-Declarations.exe
+C:\CSIS123\Lab03-Declarations\Debug\Lab03-Declarations.pdb

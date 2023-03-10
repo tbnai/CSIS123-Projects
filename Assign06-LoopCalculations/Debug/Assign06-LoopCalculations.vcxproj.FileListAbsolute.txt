@@ -1,0 +1,2 @@
+C:\CSIS123\Assign06-LoopCalculations\Debug\Assign06-LoopCalculations.exe
+C:\CSIS123\Assign06-LoopCalculations\Debug\Assign06-LoopCalculations.pdb

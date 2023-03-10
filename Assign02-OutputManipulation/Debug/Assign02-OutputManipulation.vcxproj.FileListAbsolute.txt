@@ -1,0 +1,2 @@
+C:\CSIS123\Assign02-OutputManipulation\Debug\Assign02-OutputManipulation.exe
+C:\CSIS123\Assign02-OutputManipulation\Debug\Assign02-OutputManipulation.pdb

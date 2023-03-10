@@ -1,0 +1,2 @@
+C:\CSIS123\Assign03-ShippingCrate\Debug\Assign03-ShippingCrate.exe
+C:\CSIS123\Assign03-ShippingCrate\Debug\Assign03-ShippingCrate.pdb

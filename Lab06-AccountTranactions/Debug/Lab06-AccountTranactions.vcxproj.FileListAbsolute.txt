@@ -1,0 +1,2 @@
+C:\CSIS123\Lab06-AccountTranactions\Debug\Lab06-AccountTranactions.exe
+C:\CSIS123\Lab06-AccountTranactions\Debug\Lab06-AccountTranactions.pdb

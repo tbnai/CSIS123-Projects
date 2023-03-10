@@ -1,0 +1,2 @@
+C:\CSIS123\Assign07-InventoryReport\Debug\Assign07-InventoryReport.exe
+C:\CSIS123\Assign07-InventoryReport\Debug\Assign07-InventoryReport.pdb

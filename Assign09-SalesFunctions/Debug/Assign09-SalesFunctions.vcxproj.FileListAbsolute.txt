@@ -1,0 +1,4 @@
+C:\CSIS123 Tony\Assign09-SalesFunctions\Debug\Assign09-SalesFunctions.exe
+C:\CSIS123 Tony\Assign09-SalesFunctions\Debug\Assign09-SalesFunctions.pdb
+C:\CSIS123\Assign09-SalesFunctions\Debug\Assign09-SalesFunctions.exe
+C:\CSIS123\Assign09-SalesFunctions\Debug\Assign09-SalesFunctions.pdb

@@ -1,0 +1,2 @@
+C:\CSIS123\Assign01-ArithmeticOps\Debug\Assign01-ArithmeticOps.exe
+C:\CSIS123\Assign01-ArithmeticOps\Debug\Assign01-ArithmeticOps.pdb
